@@ -1,1 +1,2 @@
 # CashRegisterProject
+Finals for Coprog
