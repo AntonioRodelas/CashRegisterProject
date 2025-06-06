@@ -1,0 +1,17 @@
+Date and Time: 2025-06-06 15:35:20
+Username: Anton
+Items Purchased:
+McChicken - Qty: 2, Price: Php 99.00
+Fries - Qty: 3, Price: Php 54.00
+Softdrink - Qty: 1, Price: Php 39.00
+Chicken Fillet - Qty: 2, Price: Php 99.00
+Total Amount: Php 597.00
+
+Date and Time: 2025-06-06 15:35:56
+Username: Anton
+Items Purchased:
+McChicken - Qty: 3, Price: Php 99.00
+Fries - Qty: 2, Price: Php 54.00
+Softdrink - Qty: 2, Price: Php 39.00
+Total Amount: Php 483.00
+
